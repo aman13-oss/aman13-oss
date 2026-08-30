@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Aman Kumar
-
-> 🎓 **B.Tech CSE Student** | 📊 **Data Science & Data Analytics** | 🤖 **Machine Learning**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aman%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20CSE%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descAlignY=60&descSize=18" />
+</p>
 
 ## 💖 About Me
 
