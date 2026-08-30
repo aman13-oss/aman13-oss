@@ -105,7 +105,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Q61WnXNeP7/">
-    <img src="https://leetcard.jacoblin.cool/Q61WnXNeP7?theme=dark&ext=heatmap" alt="LeetCode Stats with Heatmap" />
+    <img src="https://leetcard.jacoblin.cool/Q61WnXNeP7?theme=dark&ext=heatmap&font=Baloo%202" alt="LeetCode Stats" />
   </a>
 </p>
 
