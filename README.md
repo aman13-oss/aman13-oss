@@ -73,6 +73,8 @@
 
 ---
 
+---
+
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -105,7 +107,7 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aman13-oss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
@@ -121,10 +123,6 @@
 
 ---
 
-<p align="center">
-  💙 Thanks for visiting my profile!
-</p>
+💙 Thanks for visiting my profile!
 
-<p align="center">
-  <i>Keep learning. Keep building. Keep growing. 🚀</i>
-</p>
+*Keep learning. Keep building. Keep growing. 🚀*
