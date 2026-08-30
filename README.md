@@ -77,9 +77,8 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="ACTIVITY_GRAPH_URL" alt="Aman's GitHub Activity Graph">
+  <img src="https://raw.githubusercontent.com/aman13-oss/aman13-oss/output/activity-graph.svg" alt="Aman's GitHub Activity Graph">
 </p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
