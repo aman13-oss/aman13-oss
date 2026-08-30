@@ -101,11 +101,11 @@
   </a>
 </p>
 
-### 🧩 LeetCode Stats
+## 🧩 LeetCode Stats
 
 <p align="center">
   <a href="https://leetcode.com/u/Q61WnXNeP7/">
-    <img src="https://leetcard.jacoblin.cool/Q61WnXNeP7?theme=dark" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Q61WnXNeP7?theme=dark&ext=heatmap" alt="LeetCode Stats with Heatmap" />
   </a>
 </p>
 
