@@ -103,11 +103,9 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aman13-oss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Achievements" />
-</p>
+[![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=aman13-oss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)](https://github.com/aman13-oss)
 
 ---
 
