@@ -74,10 +74,11 @@
 ---
 
 ---
-
 ## 📈 Contribution Graph
 
-[![Aman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aman13-oss)](https://github.com/aman13-oss)
+<p align="center">
+  <img src="https://github-contribution-graph.ez4o.com/?username=aman13-oss&last_n_days=365" alt="Aman's GitHub Contribution Graph">
+</p>
 
 ## 🐍 Contribution Snake
 
