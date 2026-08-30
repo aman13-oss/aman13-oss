@@ -77,10 +77,7 @@
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman13-oss&theme=tokyo-night&hide_border=true" alt="Aman's GitHub Activity Graph">
-</p>
----
+[![Aman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aman13-oss)](https://github.com/aman13-oss)
 
 ## 🐍 Contribution Snake
 
