@@ -103,12 +103,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=aman13-oss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)](https://github.com/aman13-oss)
-
----
-
 ## ✍️ Developer Quote
 
 <p align="center">
