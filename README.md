@@ -77,7 +77,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=aman13-oss&last_n_days=364" alt="Aman's GitHub Contribution Graph">
+  <img src="ACTIVITY_GRAPH_URL" alt="Aman's GitHub Activity Graph">
 </p>
 
 ## 🐍 Contribution Snake
