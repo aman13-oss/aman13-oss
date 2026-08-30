@@ -101,6 +101,14 @@
   </a>
 </p>
 
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/Q61WnXNeP7/">
+    <img src="https://leetcard.jacoblin.cool/Q61WnXNeP7?theme=dark" alt="LeetCode Stats" />
+  </a>
+</p>
+
 ---
 
 ## ✍️ Developer Quote
