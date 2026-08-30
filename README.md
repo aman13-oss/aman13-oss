@@ -84,7 +84,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aman13-oss/aman13-oss/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/aman13-oss/aman13-oss/gh-pages/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
