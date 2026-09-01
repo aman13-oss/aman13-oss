@@ -25,7 +25,7 @@
 
 ---
 
-### 🔭 What I'm Up To
+## 🔭 What I'm Up To
 
 - 📊 Learning **Data Analytics & Data Science**
 - 🤖 Exploring **Machine Learning**
@@ -66,23 +66,34 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aman13-oss&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=aman13-oss&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aman13-oss&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=aman13-oss&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aman13-oss&theme=tokyonight&hide_border=false" height="180" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aman13-oss&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages" />
+</p>
 
 ---
 
----
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aman13-oss/aman13-oss/output/activity-graph.svg" alt="Aman's GitHub Activity Graph">
+  <img src="https://raw.githubusercontent.com/aman13-oss/aman13-oss/output/activity-graph.svg" alt="Aman's GitHub Activity Graph" />
 </p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aman13-oss/aman13-oss/gh-pages/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/aman13-oss/aman13-oss/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
@@ -101,12 +112,22 @@
   </a>
 </p>
 
+---
+
 ## 🧩 LeetCode Stats
 
 <p align="center">
   <a href="https://leetcode.com/u/Q61WnXNeP7/">
-    <img src="https://leetcard.jacoblin.cool/Q61WnXNeP7?theme=dark&ext=heatmap&font=Baloo%202" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Q61WnXNeP7?theme=dark&ext=heatmap&font=Baloo%202" alt="LeetCode Stats with Heatmap" />
   </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aman13-oss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -114,11 +135,15 @@
 ## ✍️ Developer Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
 </p>
 
 ---
 
-💙 Thanks for visiting my profile!
+<p align="center">
+  💙 Thanks for visiting my profile!
+</p>
 
-*Keep learning. Keep building. Keep growing. 🚀*
+<p align="center">
+  <i>Keep learning. Keep building. Keep growing. 🚀</i>
+</p>
