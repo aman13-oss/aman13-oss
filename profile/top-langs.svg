@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="222.18"
+          width="222.07"
           height="8"
           fill="#DA5B0B"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="222.18"
+          x="222.07"
           y="0"
-          width="18.369999999999997"
+          width="18.36"
           height="8"
           fill="#3572A5"
         />
@@ -156,7 +156,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="230.55"
+          x="230.43"
           y="0"
           width="17.47"
           height="8"
@@ -166,7 +166,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="238.02"
+          x="237.9"
           y="0"
           width="16.31"
           height="8"
@@ -176,9 +176,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="244.33"
+          x="244.21"
           y="0"
-          width="12.84"
+          width="12.96"
           height="8"
           fill="#f34b7d"
         />
@@ -188,7 +188,7 @@
           data-testid="lang-progress"
           x="247.17000000000002"
           y="0"
-          width="12.83"
+          width="12.82"
           height="8"
           fill="#663399"
         />
@@ -199,7 +199,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 88.87%
+        Jupyter Notebook 88.83%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -227,7 +227,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 1.14%
+        C++ 1.18%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
